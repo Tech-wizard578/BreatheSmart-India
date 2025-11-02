@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+ECHO is off.
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+ECHO is off.
+# Logs
+logs/*.log
+*.log
+ECHO is off.
+# Database
+*.db
+*.sqlite
+ECHO is off.
+# Environment
+.env
+ECHO is off.
+# Models
+models/*.h5
+models/*.pkl
+ECHO is off.
+# OS
+.DS_Store
+Thumbs.db
+ECHO is off.
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+ECHO is off.
+# Backups
+backups/*.sql

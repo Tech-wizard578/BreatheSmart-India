@@ -1,0 +1,26 @@
+AirSense India - Quick Reference
+================================
+
+Project Structure Created Successfully!
+
+Next Steps:
+1. Copy your existing code files into the appropriate directories
+2. Run: setup_venv.bat (to create Python virtual environment)
+3. Edit .env file with your API keys
+4. Run: docker-compose up -d (to start all services)
+
+Directory Structure:
+- backend/       : All Python backend code
+- ml/            : Machine learning models
+- database/      : SQL schema and seed data
+- scripts/       : Utility scripts
+- nginx/         : Web server configuration
+- models/        : Trained ML models (generated)
+- logs/          : Application logs (generated)
+- backups/       : Database backups (generated)
+
+Important Files:
+- .env           : Environment variables (configure this!)
+- docker-compose.yml : Docker orchestration
+- requirements.txt   : Python dependencies
+
