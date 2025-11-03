@@ -1,4 +1,4 @@
-# 🌍 AirSense India - AI-Powered Air Quality Intelligence Platform
+# 🌍 Breathe Smart - AI-Powered Air Quality Intelligence Platform
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
